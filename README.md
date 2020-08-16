@@ -3,7 +3,7 @@ By Jason Tilley, Mason McGinley, Haley Lewis, & Christal Vigil
 
 # Links:
  Git Hub:
- https://github.com/mmcginley32/project1
+ https://github.com/jttilley/Weather-Trips
  
  Deployed link:
  https://jttilley.github.io/Weather-Trips/index.html
