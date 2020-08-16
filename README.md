@@ -6,7 +6,7 @@ By Jason Tilley, Mason McGinley, Haley Lewis, & Christal Vigil
  https://github.com/mmcginley32/project1
  
  Deployed link:
- https://mmcginley32.github.io/project1/index.html
+ https://jttilley.github.io/Weather-Trips/index.html
 
 # Objective:
 - to make an app using 2 external APIs and 1 3rd party API
