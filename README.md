@@ -1,18 +1,21 @@
 # Weather Trips
 By Jason Tilley, Mason McGinley, Haley Lewis, & Christal Vigil
 
-# Links:
+## Tech used:
+HTML, CSS, Javascript, jQuery, Ajax, Google Maps Javascript API, Google Directions API, Open Weather API, Moment.js, Bootstrap
+
+## Links:
  Git Hub:
  https://github.com/jttilley/Weather-Trips
  
  Deployed link:
  https://jttilley.github.io/Weather-Trips/index.html
 
-# Objective:
+## Objective:
 - to make an app using 2 external APIs and 1 3rd party API
 - We decided to make an app that would route a road trip for you using google maps and tell you the weather for when you would arrive at your stops if you left now. This would allow you to plan your stops according to the weather or to prepare yourself for the weather along your road trip. 
 
-# How it works:
+## How it works:
  - The user will enter a starting city and ending city in the specified input boxes.
  - When they click the Route button:
     - if a start city is missing or an end city is missing an alert will pop up reminding the user to enter that city too.
@@ -29,6 +32,11 @@ By Jason Tilley, Mason McGinley, Haley Lewis, & Christal Vigil
 - The route taken can also be dragged and the new travel times are incorporated into calculating the times for the weather.
 - If you enter a new start and end city and press route it will delete the previous route and start again fresh with a new route.
 
-# Current Limitations:
+![screenshot](./Assets/Weather-Trips.png)
+
+## Current Limitations:
 - If the travel time takes more than 48 hours the weather is not calculated
 - If a stop is dragged to a small city or landmark the weather may not be calculated for that stop and it may cause an error for future stops until that city is adjusted to a working city.
+
+## License:
+*MIT* © 2020 Jason Tilley, Mason McGinley, Haley Lewis, & Christal Vigil
