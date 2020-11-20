@@ -9,7 +9,7 @@ HTML, CSS, Javascript, jQuery, Ajax, Google Maps Javascript API, Google Directio
  https://github.com/jttilley/Weather-Trips
  
  Deployed link:
- https://jttilley.github.io/Weather-Trips/index.html
+ https://jttilley.github.io/Weather-Trips
 
 ## Objective:
 - to make an app using 2 external APIs and 1 3rd party API
